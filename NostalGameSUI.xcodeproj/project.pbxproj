@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D1ACF4F25007EB500B259FC /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1ACF4E25007EB500B259FC /* Colors.swift */; };
+		3D1ACF512500AD4400B259FC /* Choose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1ACF502500AD4400B259FC /* Choose.swift */; };
+		3D1ACF732501181000B259FC /* HowTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1ACF722501181000B259FC /* HowTo.swift */; };
+		3D1ACF7525012B5E00B259FC /* Play.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1ACF7425012B5E00B259FC /* Play.swift */; };
 		3D3A0C0E24FFF34A00D29810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3A0C0D24FFF34A00D29810 /* AppDelegate.swift */; };
 		3D3A0C1024FFF34A00D29810 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3A0C0F24FFF34A00D29810 /* SceneDelegate.swift */; };
 		3D3A0C1224FFF34A00D29810 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3A0C1124FFF34A00D29810 /* ContentView.swift */; };
@@ -16,6 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D1ACF4E25007EB500B259FC /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		3D1ACF502500AD4400B259FC /* Choose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Choose.swift; sourceTree = "<group>"; };
+		3D1ACF722501181000B259FC /* HowTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowTo.swift; sourceTree = "<group>"; };
+		3D1ACF7425012B5E00B259FC /* Play.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Play.swift; sourceTree = "<group>"; };
 		3D3A0C0A24FFF34A00D29810 /* NostalGameSUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NostalGameSUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D3A0C0D24FFF34A00D29810 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D3A0C0F24FFF34A00D29810 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +67,10 @@
 				3D3A0C0D24FFF34A00D29810 /* AppDelegate.swift */,
 				3D3A0C0F24FFF34A00D29810 /* SceneDelegate.swift */,
 				3D3A0C1124FFF34A00D29810 /* ContentView.swift */,
+				3D1ACF722501181000B259FC /* HowTo.swift */,
+				3D1ACF502500AD4400B259FC /* Choose.swift */,
+				3D1ACF7425012B5E00B259FC /* Play.swift */,
+				3D1ACF4E25007EB500B259FC /* Colors.swift */,
 				3D3A0C1324FFF34D00D29810 /* Assets.xcassets */,
 				3D3A0C1824FFF34D00D29810 /* LaunchScreen.storyboard */,
 				3D3A0C1B24FFF34D00D29810 /* Info.plist */,
@@ -147,6 +159,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D3A0C0E24FFF34A00D29810 /* AppDelegate.swift in Sources */,
+				3D1ACF512500AD4400B259FC /* Choose.swift in Sources */,
+				3D1ACF4F25007EB500B259FC /* Colors.swift in Sources */,
+				3D1ACF732501181000B259FC /* HowTo.swift in Sources */,
+				3D1ACF7525012B5E00B259FC /* Play.swift in Sources */,
 				3D3A0C1024FFF34A00D29810 /* SceneDelegate.swift in Sources */,
 				3D3A0C1224FFF34A00D29810 /* ContentView.swift in Sources */,
 			);
